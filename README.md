@@ -1,5 +1,4 @@
-# predicting-corporate-innovation
-A comparative study of logistic regression and random forest models to predict corporate innovation
+
 # Predicting Corporate Innovation
 
 A comparative study of logistic regression and random forest models to predict corporate innovation, providing insights into which model performs better under specific conditions.
