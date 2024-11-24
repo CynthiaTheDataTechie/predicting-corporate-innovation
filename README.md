@@ -66,9 +66,11 @@ Key visualizations include:
    cd predicting-corporate-innovation
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
+
 ## Folder Structure
 
-cpredicting-corporate-innovation/
+
+predicting-corporate-innovation/
 ├── notebooks/                # Jupyter notebooks for the project
 │   ├── analysis.ipynb         # Main notebook for the project
 ├── results/                  # Analysis outputs
@@ -77,6 +79,8 @@ cpredicting-corporate-innovation/
 ├── requirements.txt          # Python dependencies
 ├── LICENSE                   # License for the project
 ├── README.md                 # Main README file
+
+
 
 
 ---
