@@ -65,8 +65,10 @@ Key visualizations include:
    git clone https://github.com/your-username/predicting-corporate-innovation.git
    cd predicting-corporate-innovation
 pip install -r requirements.txt
-jupyter notebook notebooks/analysis.ipynb
-predicting-corporate-innovation/
+jupyter notebook analysis.ipynb
+## Folder Structure
+
+cpredicting-corporate-innovation/
 ├── notebooks/                # Jupyter notebooks for the project
 │   ├── analysis.ipynb         # Main notebook for the project
 ├── results/                  # Analysis outputs
@@ -75,3 +77,29 @@ predicting-corporate-innovation/
 ├── requirements.txt          # Python dependencies
 ├── LICENSE                   # License for the project
 ├── README.md                 # Main README file
+
+
+---
+
+## Blog Post
+
+This project is detailed in a comprehensive blog post that covers:
+- 
+- 
+- 
+
+Read the full blog post here:
+
+[Predicting Corporate Innovation: A Comparative Study of Logistic Regression and Random Forest Models]([https://medium.com/@cynthiaakiotu/harnessing-price-sensitivity-for-effective-customer-segmentation-with-k-means-clustering-c08ccc2a5e6e](https://medium.com/@cynthiaakiotu/predicting-corporate-innovation-a-comparative-study-of-logistic-regression-and-random-forest-4cb12ecb9a24)
+
+---
+
+## Video Walkthrough
+
+Coming soon
+
+
+
+---
+
+## License Main README file
