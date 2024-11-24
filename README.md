@@ -71,7 +71,7 @@ jupyter notebook analysis.ipynb
 
 
 predicting-corporate-innovation/
-├── notebooks/                # Jupyter notebooks for the project
+├── notebooks/                 # Jupyter notebooks for the project
 │   ├── analysis.ipynb         # Main notebook for the project
 ├── results/                  # Analysis outputs
 │   ├── figures/               # Saved plots (e.g., ROC curves, feature importance)
