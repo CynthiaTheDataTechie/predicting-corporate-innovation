@@ -5,17 +5,17 @@ This repository explores the use of machine learning models to predict corporate
 ---
 
 ## 📚 Table of Contents
-1. [Summary](#summary)
-2. [Dataset](#dataset)
-3. [Key Findings](#key-findings)
-4. [Results](#results)
-5. [How to Use](#how-to-use)
-6. [Folder Structure](#folder-structure)
-7. [YouTube Video Walkthrough](#youtube-video-walkthrough)
-8. [Read the Full Article](#read-the-full-article)
-9. [License](#license)
-10. [Connect With Me](#connect-with-me)
-11. [Acknowledgments](#acknowledgments)
+- [Summary](#summary)
+- [Dataset](#dataset)
+- [Key Findings](#key-findings)
+- [Results](#results)
+- [How to Use](#how-to-use)
+- [Folder Structure](#folder-structure)
+- [YouTube Video Walkthrough](#youtube-video-walkthrough)
+- [Read the Full Article](#read-the-full-article)
+- [License](#license)
+- [Connect With Me](#connect-with-me)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -44,11 +44,11 @@ The dataset used in this study contains the following variables:
 ### **Input Features**
 1. `Revenue`: Annual revenue of the company.
 2. `R&D Expenditure`: Expenditure on research and development activities.
-3. `Size`: Total number of employees in the company and market presence.
-4. `Investment`: Percentage of the market control.
-5. `Bonus System`: A measure of bonus systems and incentive offered to employees.
-6. `Training`: The extent of training programs provided by employees (1–10 scale).
-7. `Service Launch`: The frequency of companies to launch new services/products.
+3. `Size`: Total number of employees in the company and Market presence.
+4. `Investment`: Percentage of investment made by the company.
+5. `Service Launch`: The frequency and capability of the company to provide new services/products.
+6. `Training`: The level of training provided to employees.
+7. `Bonus System`: The presence of bonus systems/incentives to employees.
 
 These features were preprocessed (e.g., scaling, encoding) and analyzed to determine their impact on predicting corporate innovation.
 
@@ -78,10 +78,10 @@ These features were preprocessed (e.g., scaling, encoding) and analyzed to deter
 
 | Model               | Accuracy | Precision | Recall | F1-Score | Log-Loss | AUC  |
 |---------------------|----------|-----------|--------|----------|----------|------|
-| Logistic Regression | 0.59      | 0.57      | 0.65   | 0.61     | 0.64     | 0.69 |
-| Random Forest       | 0.81      | 0.76      | 0.90   | 0.83     | 0.49     | 0.86 |
+| Logistic Regression | 0.59     | 0.57      | 0.65   | 0.61     | 0.64     | 0.69 |
+| Random Forest       | 0.81     | 0.76      | 0.90   | 0.83     | 0.49     | 0.86 |
 
-- **Key Insight**: Random Forest outperformed Logistic Regression in terms of accuracy and robustness to complex data patterns. However, Logistic Regression remains a strong choice when interpretability is essential.
+- **Key Insight**: Random Forest outperformed Logistic Regression in all metrics, demonstrating its ability to handle complex, non-linear relationships. However, Logistic Regression remains a viable option for interpretable models.
 
 ---
 
@@ -93,7 +93,7 @@ These features were preprocessed (e.g., scaling, encoding) and analyzed to deter
    cd predicting-corporate-innovation
    pip install -r requirements.txt
    jupyter notebook analysis.ipynb
-   predicting-corporate-innovation/
+## Folder Structure
 predicting-corporate-innovation/
 ├── notebooks/                 # Jupyter notebooks for the project
 │   ├── dummyvar.ipynb         # Main notebook for the project
@@ -103,3 +103,52 @@ predicting-corporate-innovation/
 ├── requirements.txt           # Python dependencies
 ├── LICENSE                    # License for the project
 ├── README.md                  # Main README file
+## 🎥 YouTube Video Walkthrough
+
+A detailed video walkthrough of this project is available on my YouTube channel. The video covers:
+- **Dataset Preparation**: Preprocessing steps like cleaning, encoding, and scaling.
+- **Feature Engineering**: Selecting and engineering relevant features.
+- **Model Building**: Training Logistic Regression and Random Forest models.
+- **Evaluation Metrics**: Comparing models using accuracy, precision, recall, F1-score, log-loss, and AUC.
+- **Results and Insights**: Visualizing key results and deriving actionable insights.
+
+[![YouTube Video Walkthrough]coming soon
+
+> 📌 The walkthrough provides step-by-step guidance, ensuring you can replicate the results or adapt the approach for similar projects.
+
+---
+## 📚 Read the Full Article
+
+For a detailed walkthrough of the methodology, insights, and visualizations, check out the full blog post:
+
+[**Predicting Corporate Innovation: A Comparative Study of Logistic Regression and Random Forest**](https://medium.com/@cynthiaakiotu/predicting-corporate-innovation-a-comparative-study-of-logistic-regression-and-random-forest-4cb12ecb9a24)
+
+> 📌 This article delves into the project in greater depth, covering the data preprocessing steps, feature engineering, model building, evaluation metrics, and key insights.
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, and distribute this project in accordance with the terms of the MIT License. 
+
+For more details, see the [LICENSE](LICENSE) file in this repository.
+## 🌟 Acknowledgments
+
+I would like to thank the data science community for their continuous support and inspiration. Special thanks to:
+- Everyone who provided feedback and guidance during this project.
+- The creators of the tools and libraries used in this project, including Python, Scikit-learn, Pandas, Matplotlib, and more.
+
+### Reference:
+- Dataset Source: [World Bank Enterprise Surveys](http://www.enterprisesurveys.org)
+
+This project is a testament to the power of collaboration and the open-source community. Thank you all! 😊
+
+
+## 📫 Connect With Me
+
+Feel free to connect with me for more projects, collaborations, or discussions:
+
+- **YouTube Channel**: [Subscribe Here](https://www.youtube.com/@CynthiaThe)
+- **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/cynthiaakiotu)
+- **Medium Blog**: [Read My Articles](https://medium.com/@cynthiaakiotu)
+
