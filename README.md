@@ -51,7 +51,7 @@ The dataset used in this study contains the following variables:
 7. `Bonus System`: The presence of bonus systems/incentives to employees.
 
 These features were preprocessed (e.g., scaling, encoding) and analyzed to determine their impact on predicting corporate innovation.
-
+Dataset Source: [World Bank Enterprise Surveys](http://www.enterprisesurveys.org)
 ---
 
 ## 🔍 Key Findings
@@ -81,7 +81,14 @@ These features were preprocessed (e.g., scaling, encoding) and analyzed to deter
 | Logistic Regression | 0.59     | 0.57      | 0.65   | 0.61     | 0.64     | 0.69 |
 | Random Forest       | 0.81     | 0.76      | 0.90   | 0.83     | 0.49     | 0.86 |
 
-- **Key Insight**: Random Forest outperformed Logistic Regression in all metrics, demonstrating its ability to handle complex, non-linear relationships. However, Logistic Regression remains a viable option for interpretable models.
+- **Key Insight**:- **Accuracy**: Random Forest achieves **81%**, outperforming Logistic Regression's **59%**.
+- **Precision**: Random Forest achieves **0.76**, reducing false positives compared to Logistic Regression (**0.57**).
+- **Recall**: Random Forest detects **90%** of innovative companies, significantly better than Logistic Regression (**65%**).
+- **F1-Score**: Random Forest balances precision and recall with a high score of **0.83**, compared to Logistic Regression's **0.61**.
+- **Log-Loss**: Random Forest achieves a lower log-loss (**0.49**) than Logistic Regression (**0.64**), indicating more accurate probability predictions.
+- **AUC**: Random Forest demonstrates better class distinction with an AUC of **0.86**, compared to Logistic Regression’s **0.69**.
+
+**Conclusion**: Random Forest outperforms Logistic Regression in all metrics, making it the preferred model for predicting corporate innovation.
 
 ---
 
@@ -148,7 +155,6 @@ This project is a testament to the power of collaboration and the open-source co
 
 Feel free to connect with me for more projects, collaborations, or discussions:
 
-- **YouTube Channel**: [Subscribe Here](https://www.youtube.com/@CynthiaThe)
-- **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/cynthiaakiotu)
+- **YouTube Channel**: [Subscribe Here](https://www.youtube.com/@CynthiaTheDataTechie)
+- **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/cynthia-akiotu-7b695aa9/)
 - **Medium Blog**: [Read My Articles](https://medium.com/@cynthiaakiotu)
-
