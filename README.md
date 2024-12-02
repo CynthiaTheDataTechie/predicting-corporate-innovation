@@ -10,7 +10,7 @@ This repository explores the use of machine learning models to predict corporate
 - [🔍 Key Findings](#-key-findings)
 - [📈 Results](#-results)
 - [🛠️ How to Use](#️-how-to-use)
-- [📂 Folder Structure](#-folder-structure)
+- [📂 Folder Structure](#folder-structure)
 - [🎥 YouTube Video Walkthrough](#-youtube-video-walkthrough)
 - [📚 Read the Full Article](#-read-the-full-article)
 - [📜 License](#-license)
