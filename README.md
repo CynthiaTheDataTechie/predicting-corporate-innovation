@@ -137,7 +137,7 @@ For a detailed walkthrough of the methodology, insights, and visualizations, che
 
 This project is licensed under the **MIT License**.
 
-For more details, see the [LICENSE](LICENSE) file in this repository.
+For more details, see the [LICENSE](License) file in this repository.
 ## 🌟 Acknowledgments
 
 I would like to thank the data science community for their continuous support and inspiration. Special thanks to:
