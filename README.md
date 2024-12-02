@@ -113,16 +113,16 @@ predicting-corporate-innovation/
 ├── README.md                  # Main README file
 ## 🎥 YouTube Video Walkthrough
 
-A detailed video walkthrough of this project is available on my YouTube channel. The video covers:
+A detailed video walkthrough of this project is coming soon. The video will cover:
 - **Dataset Preparation**: Preprocessing steps like cleaning, encoding, and scaling.
 - **Feature Engineering**: Selecting and engineering relevant features.
 - **Model Building**: Training Logistic Regression and Random Forest models.
 - **Evaluation Metrics**: Comparing models using accuracy, precision, recall, F1-score, log-loss, and AUC.
 - **Results and Insights**: Visualizing key results and deriving actionable insights.
 
-[![YouTube Video Walkthrough]coming soon
+[![YouTube Video Walkthrough] coming soon
 
-> 📌 The walkthrough provides step-by-step guidance, ensuring you can replicate the results or adapt the approach for similar projects.
+> 📌 The walkthrough will provide step-by-step guidance, ensuring you can replicate the results or adapt the approach for similar projects.
 
 ---
 ## 📚 Read the Full Article
