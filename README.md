@@ -137,8 +137,6 @@ For a detailed walkthrough of the methodology, insights, and visualizations, che
 
 This project is licensed under the **MIT License**.
 
-You are free to use, modify, and distribute this project in accordance with the terms of the MIT License. 
-
 For more details, see the [LICENSE](LICENSE) file in this repository.
 ## 🌟 Acknowledgments
 
