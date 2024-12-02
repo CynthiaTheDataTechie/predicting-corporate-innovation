@@ -147,7 +147,7 @@ I would like to thank the data science community for their continuous support an
 ### Reference:
 - Dataset Source: [World Bank Enterprise Surveys](http://www.enterprisesurveys.org)
 
-This project is a testament to the power of collaboration and the open-source community. Thank you all! 😊
+ Thank you all! 😊
 
 
 ## 📫 Connect With Me
