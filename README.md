@@ -5,17 +5,18 @@ This repository explores the use of machine learning models to predict corporate
 ---
 
 ## 📚 Table of Contents
-- [Summary](#summary)
-- [Dataset](#dataset)
-- [Key Findings](#key-findings)
-- [Results](#results)
-- [How to Use](#how-to-use)
-- [Folder Structure](#folder-structure)
-- [YouTube Video Walkthrough](#youtube-video-walkthrough)
-- [Read the Full Article](#read-the-full-article)
-- [License](#license)
-- [Connect With Me](#connect-with-me)
-- [Acknowledgments](#acknowledgments)
+- [📚 Summary](#-summary)
+- [📊 Dataset](#-dataset)
+- [🔍 Key Findings](#-key-findings)
+- [📈 Results](#-results)
+- [🛠️ How to Use](#️-how-to-use)
+- [📂 Folder Structure](#-folder-structure)
+- [🎥 YouTube Video Walkthrough](#-youtube-video-walkthrough)
+- [📚 Read the Full Article](#-read-the-full-article)
+- [📜 License](#-license)
+- [🌟 Acknowledgments](#-acknowledgments)
+- [📫 Connect With Me](#-connect-with-me)
+
 
 ---
 
